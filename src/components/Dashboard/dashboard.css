@@ -1,0 +1,18 @@
+.dashboard{
+    width: 100%;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 30px 16px;
+    z-index: 9999;
+    text-align: left;
+    padding: 16px;
+}
+
+.list{
+    padding: 0;
+}
+.list li{
+    list-style: none;
+}
